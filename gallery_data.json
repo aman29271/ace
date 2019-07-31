@@ -1,0 +1,222 @@
+[
+    
+        [
+            {"Event_name":"Farewell Cricket Match 2K18",
+                "Event_Photo":"images/gallery/ccl1.jpg",
+                "Event_Year":"Year",
+                "Event_Month":"Month",
+                "Event_date":"Date",
+                "Batch":"Batch",
+                "Photos":[
+                    {
+                        "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                    }
+                ]
+                },
+                {"Event_name":"Farewell '18",
+                    "Event_Photo":"images/gallery/farewell18.jpg",
+                    "Event_Year":"Year",
+                    "Event_Month":"Month",
+                    "Event_date":"Date",
+                    "Batch":"Batch",
+                    "Photos":[
+                        {
+                            "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                        }
+                    ]
+                    },
+                    {"Event_name":"House of Cards, Celesta 17",
+                        "Event_Photo":"images/gallery/1.jpg",
+                        "Event_Year":"Year",
+                        "Event_Month":"Month",
+                        "Event_date":"Date",
+                        "Batch":"Batch",
+                        "Photos":[
+                            {
+                                "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                            }
+                        ]
+                        },
+                        {"Event_name":"Spagridge, Celesta 17",
+                            "Event_Photo":"images/gallery/2.jpg",
+                            "Event_Year":"Year",
+                            "Event_Month":"Month",
+                            "Event_date":"Date",
+                            "Batch":"Batch",
+                            "Photos":[
+                                {
+                                    "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                                }
+                            ]
+                            },
+                            {"Event_name":"LensArt, Celesta 17",
+                                "Event_Photo":"images/gallery/3.jpg",
+                                "Event_Year":"Year",
+                                "Event_Month":"Month",
+                                "Event_date":"Date",
+                                "Batch":"Batch",
+                                "Photos":[
+                                    {
+                                        "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                                    }
+                                ]
+                                },
+                                {"Event_name":"Teacher's Day '17",
+                                    "Event_Photo":"images/gallery/4.jpg",
+                                    "Event_Year":"Year",
+                                    "Event_Month":"Month",
+                                    "Event_date":"Date",
+                                    "Batch":"Batch",
+                                    "Photos":[
+                                        {
+                                            "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                                        }
+                                    ]
+                                    },
+                                    {"Event_name":"Civil Football League 17",
+                                        "Event_Photo":"images/gallery/5.jpg",
+                                        "Event_Year":"Year",
+                                        "Event_Month":"Month",
+                                        "Event_date":"Date",
+                                        "Batch":"Batch",
+                                        "Photos":[
+                                            {
+                                                "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                                            }
+                                        ]
+                                        },
+                                        {"Event_name":"Neev '17",
+                                            "Event_Photo":"images/gallery/6.jpg",
+                                            "Event_Year":"Year",
+                                            "Event_Month":"Month",
+                                            "Event_date":"Date",
+                                            "Batch":"Batch",
+                                            "Photos":[
+                                                {
+                                                    "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                                                }
+                                            ]
+                                            },
+                                            {"Event_name":"Farewell '16",
+                                                "Event_Photo":"images/gallery/7.jpg",
+                                                "Event_Year":"Year",
+                                                "Event_Month":"Month",
+                                                "Event_date":"Date",
+                                                "Batch":"Batch",
+                                                "Photos":[
+                                                    {
+                                                        "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                                                    }
+                                                ]
+                                                },
+                                                {"Event_name":"Seminar on Higher Education",
+                                                    "Event_Photo":"images/gallery/8.jpg",
+                                                    "Event_Year":"Year",
+                                                    "Event_Month":"Month",
+                                                    "Event_date":"Date",
+                                                    "Batch":"Batch",
+                                                    "Photos":[
+                                                        {
+                                                            "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                                                        }
+                                                    ]
+                                                    },
+                                                    {"Event_name":"Site Visit",
+                                                        "Event_Photo":"images/gallery/9.jpg",
+                                                        "Event_Year":"Year",
+                                                        "Event_Month":"Month",
+                                                        "Event_date":"Date",
+                                                        "Batch":"Batch",
+                                                        "Photos":[
+                                                            {
+                                                                "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                                                            }
+                                                        ]
+                                                        },
+                                                        {"Event_name":"CCL '16 : Day-2",
+                                                            "Event_Photo":"images/gallery/10.jpg",
+                                                            "Event_Year":"Year",
+                                                            "Event_Month":"Month",
+                                                            "Event_date":"Date",
+                                                            "Batch":"Batch",
+                                                            "Photos":[
+                                                                {
+                                                                    "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                                                                }
+                                                            ]
+                                                            },
+                                                            {"Event_name":"CCL '16 : Day-1",
+                                                                "Event_Photo":"images/gallery/11.jpg",
+                                                                "Event_Year":"Year",
+                                                                "Event_Month":"Month",
+                                                                "Event_date":"Date",
+                                                                "Batch":"Batch",
+                                                                "Photos":[
+                                                                    {
+                                                                        "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                                                                    }
+                                                                ]
+                                                                },
+                                                                {"Event_name":"Teacher's Day '16",
+                                                                    "Event_Photo":"images/gallery/13.jpg",
+                                                                    "Event_Year":"Year",
+                                                                    "Event_Month":"Month",
+                                                                    "Event_date":"Date",
+                                                                    "Batch":"Batch",
+                                                                    "Photos":[
+                                                                        {
+                                                                            "name":"image Name","source_location":"location","tags":"tagged people","height":"height","width":"width"
+                                                                        }
+                                                                    ]
+                                                                    },
+                                                                    {"Event_name":"Spagaridge '16",
+                                                                        "Event_Photo":"images/gallery/13.jpg",
+                                                                        "Event_Year":"Year",
+                                                                        "Event_Month":"Month",
+                                                                        "Event_date":"Date",
+                                                                        "Batch":"Batch",
+                                                                        "Photos":[
+                                                                            {
+                                                                                "name":"image Name","source_location":"location","tags":"tagged_people","height":"height","width":"width"
+                                                                            }
+                                                                        ]
+                                                                        },
+                                                                        {"Event_name":"Neev '16",
+                                                                            "Event_Photo":"images/gallery/14.jpg",
+                                                                            "Event_Year":"Year",
+                                                                            "Event_Month":"Month",
+                                                                            "Event_date":"Date",
+                                                                            "Batch":"Batch",
+                                                                            "Photos":[
+                                                                                {
+                                                                                    "name":"image Name","source_location":"location","tags":"tagged_people","height":"height","width":"width"
+                                                                                }
+                                                                            ]
+                                                                            },
+                                                                            {"Event_name":"Teacher's Day '16",
+                                                                                "Event_Photo":"images/gallery/12.jpg",
+                                                                                "Event_Year":"Year",
+                                                                                "Event_Month":"Month",
+                                                                                "Event_date":"Date",
+                                                                                "Batch":"Batch",
+                                                                                "Photos":[
+                                                                                    {
+                                                                                        "name":"image Name","source_location":"location","tags":"tagged_people","height":"height","width":"width"
+                                                                                    }
+                                                                                ]
+                                                                                }
+
+        ],{"Event_Name":"Event_Name",
+            "Event_Photo":"Main_Source_location",
+            "Event_Year":"Year",
+            "Event_Month":"Month",
+            "Event_date":"Date",
+            "Batch":"Batch",
+            "Photos":[
+                {
+                    "name":"image Name","source_location":"location","tags":"tagged_people","height":"height","width":"width"
+                }
+            ]
+            }
+        
+]
